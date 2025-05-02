@@ -17,7 +17,7 @@ This project implements a **K-Nearest Neighbors (KNN)** classifier to predict **
 
 ### **1️⃣ Data Preprocessing**  
 - **Standardized features** (critical for KNN distance calculations).
-- 
+  
 ### **2️⃣ Train-Validation-Test Split**  
 | Dataset      | Samples | Percentage |  
 |-------------|---------|------------|  
