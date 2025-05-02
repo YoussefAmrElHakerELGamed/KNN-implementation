@@ -67,11 +67,11 @@ This project implements a **K-Nearest Neighbors (KNN)** classifier to predict **
    ```bash
    pip install numpy pandas scikit-learn matplotlib seaborn
    ```
-2. **Run the Jupyter Notebook:**  
+2. **Run the python file:**  
    ```bash
-   jupyter notebook Heart_Prediction_KNN.ipynb
+   python Heart_Prediction_KNN.py
    ```
-3. **Modify dataset path** (if needed) in the notebook.  
+3. **Modify dataset path** (if needed) in the py file.  
 
 ---
 
