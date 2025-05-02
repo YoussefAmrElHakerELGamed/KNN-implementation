@@ -16,9 +16,8 @@ This project implements a **K-Nearest Neighbors (KNN)** classifier to predict **
 ## **🚀 Key Steps & Results**  
 
 ### **1️⃣ Data Preprocessing**  
-- **Handled missing values** (if any) using mean imputation.  
-- **Standardized features** (critical for KNN distance calculations).  
-
+- **Standardized features** (critical for KNN distance calculations).
+- 
 ### **2️⃣ Train-Validation-Test Split**  
 | Dataset      | Samples | Percentage |  
 |-------------|---------|------------|  
